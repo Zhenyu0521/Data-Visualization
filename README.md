@@ -13,3 +13,8 @@
 ```Different ways to show 'filter'```
 * [Data Source](https://data.world/makeovermonday/2020w1-what-is-americas-most-popular-sport)
 * [Visualization](https://public.tableau.com/profile/zhenyu5045#!/vizhome/SportsPopularityTrend2004-2017/Summary?publish=yes)
+
+## 3. Use of Peticides
+```Creat 'Group' to show different color for one specific bar```
+* [Data Source](https://data.world/makeovermonday/2020w2)
+* [Visualization](https://public.tableau.com/profile/zhenyu5045#!/vizhome/CoparisionofPeticidesUse/Report?publish=yes)
