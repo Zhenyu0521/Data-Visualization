@@ -18,3 +18,8 @@
 ```Creat 'Group' to show different color for one specific bar```
 * [Data Source](https://data.world/makeovermonday/2020w2)
 * [Visualization](https://public.tableau.com/profile/zhenyu5045#!/vizhome/CoparisionofPeticidesUse/Report?publish=yes)
+
+## 4. Use of Sugars
+```Add reference line to compare KPIs```
+* [Data Source](https://data.world/makeovermonday/2020w3-is-it-time-to-treat-sugar-like-smoking)
+* [Visualization](https://public.tableau.com/profile/zhenyu5045#!/vizhome/UseofSugars/Summary?publish=yes)
